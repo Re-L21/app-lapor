@@ -31,7 +31,7 @@ pnpm dev
 For runing the JSON file as a server run command :
 
 ```bash
-json-server -w feed.json -p 5000
+json-server -w feedDb.json -p 5000
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
