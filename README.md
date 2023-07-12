@@ -10,10 +10,10 @@ npm i -g json-server
 
 Current Node JS and JSON-server version :
 
-Node JS      : v18.16.0
-JSON Server  : 0.17.3
-Next JS      : 13.4.9
-React JS     : 18.2.0
+Node JS      : v18.16.0 \n
+JSON Server  : 0.17.3 \n
+Next JS      : 13.4.9 \n
+React JS     : 18.2.0 \n
 
 First, run the development server:
 
