@@ -1,0 +1,25 @@
+{
+  "feeds": [
+    {
+      "username": "Kariel",
+      "loc": "Jakarta",
+      "title": "Jalanan berlobang",
+      "desc": "Jalanan di jl bla bla bla banyak berlobang",
+      "id": 4
+    },
+    {
+      "username": "Rinko",
+      "loc": "Depok",
+      "title": "Jalan berpasir",
+      "desc": "Jalan di perempatan dekat kampus gunadarma berpasir",
+      "id": 5
+    },
+    {
+      "username": "Cleosa",
+      "loc": "Depok",
+      "title": "Jl margona terjadi kecelakaan",
+      "desc": "Macet di jalan margonda karna kecelakaan di jalur cepat",
+      "id": 6
+    }
+  ]
+}
