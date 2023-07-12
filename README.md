@@ -2,6 +2,19 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+INSTAL JSON GLOBALLY SERVER TO MAKE FAKE API
+
+```
+npm i -g json-server
+```
+
+Current Node JS and JSON-server version :
+
+Node JS      : v18.16.0
+JSON Server  : 0.17.3
+Next JS      : 13.4.9
+React JS     : 18.2.0
+
 First, run the development server:
 
 ```bash
@@ -10,6 +23,12 @@ npm run dev
 yarn dev
 # or
 pnpm dev
+```
+
+For runing the JSON file as a server run command :
+
+```bash
+json-server -w feed.json -p 5000
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
